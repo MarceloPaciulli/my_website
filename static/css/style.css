@@ -21,6 +21,12 @@ a:hover {
   text-decoration: none;
 }
 
+img.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
 .title-sw {
   padding: 2px 10px 10px 2px;
 }
